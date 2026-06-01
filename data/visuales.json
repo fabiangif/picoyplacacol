@@ -1,0 +1,492 @@
+{
+  "bogota": {
+    "title": "Bogotá",
+    "src": "/city-images/bogota.jpg",
+    "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+    "alt": "Imagen de Bogota, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/1920px-Museo-del-Oro-Fachada_%2827842494739%29.jpg"
+  },
+  "medellin": {
+    "title": "Medellín",
+    "src": "/city-images/medellin.jpg",
+    "page": "https://es.wikipedia.org/wiki/Medell%C3%ADn",
+    "alt": "Imagen de Medellin, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panor%C3%A1mica_de_Medell%C3%ADn_desde_el_Cerro_El_Picacho.jpg/1920px-Panor%C3%A1mica_de_Medell%C3%ADn_desde_el_Cerro_El_Picacho.jpg"
+  },
+  "bucaramanga": {
+    "title": "Bucaramanga",
+    "src": "/city-images/bucaramanga.jpg",
+    "page": "https://es.wikipedia.org/wiki/Bucaramanga",
+    "alt": "Imagen de Bucaramanga, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bucaramanga_desde_Torre_del_Vento.jpg/1920px-Bucaramanga_desde_Torre_del_Vento.jpg"
+  },
+  "cali": {
+    "title": "Cali",
+    "src": "/city-images/cali.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cali",
+    "alt": "Imagen de Cali, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Panor%C3%A1mica_nocturna_de_Cali_2023.jpg/1920px-Panor%C3%A1mica_nocturna_de_Cali_2023.jpg"
+  },
+  "pasto": {
+    "title": "Pasto (Colombia)",
+    "src": "/city-images/pasto.jpg",
+    "page": "https://es.wikipedia.org/wiki/Pasto_(Colombia)",
+    "alt": "Imagen de Pasto, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/San_Juan_de_Pasto_de_noche.jpg"
+  },
+  "pereira": {
+    "title": "Pereira",
+    "src": "/city-images/pereira.jpg",
+    "page": "https://es.wikipedia.org/wiki/Pereira",
+    "alt": "Imagen de Pereira, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/1/12/Skyline_Pereira.jpg"
+  },
+  "cartagena": {
+    "title": "Cartagena de Indias",
+    "src": "/city-images/cartagena.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cartagena_de_Indias",
+    "alt": "Imagen de Cartagena, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cartagena_skyline%2C_Colombia.jpg"
+  },
+  "armenia": {
+    "title": "Armenia (Quindío)",
+    "src": "/city-images/armenia.jpg",
+    "page": "https://es.wikipedia.org/wiki/Armenia_(Quind%C3%ADo)",
+    "alt": "Imagen de Armenia, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Armenia%2C_Quindio%2C_Colombia_-_panoramio_-_Jimmy_G%C3%B3mez_N_%285%29.jpg/1920px-Armenia%2C_Quindio%2C_Colombia_-_panoramio_-_Jimmy_G%C3%B3mez_N_%285%29.jpg"
+  },
+  "bogota-regional": {
+    "title": "Bogotá",
+    "src": "/city-images/bogota-regional.jpg",
+    "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+    "alt": "Imagen de Bogota regional, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/1920px-Museo-del-Oro-Fachada_%2827842494739%29.jpg"
+  },
+  "villavicencio": {
+    "title": "Villavicencio",
+    "src": "/city-images/villavicencio.jpg",
+    "page": "https://es.wikipedia.org/wiki/Villavicencio",
+    "alt": "Imagen de Villavicencio, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Monumento_a_Las_Arpas.JPG/1920px-Monumento_a_Las_Arpas.JPG"
+  },
+  "tunja": {
+    "title": "Tunja",
+    "src": "/city-images/tunja.jpg",
+    "page": "https://es.wikipedia.org/wiki/Tunja",
+    "alt": "Imagen de Tunja, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CatedralTunja1.jpg/1280px-CatedralTunja1.jpg"
+  },
+  "santa-marta": {
+    "title": "Santa Marta (Colombia)",
+    "src": "/city-images/santa-marta.jpg",
+    "page": "https://es.wikipedia.org/wiki/Santa_Marta_(Colombia)",
+    "alt": "Imagen de Santa Marta, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Arrecifes.jpg"
+  },
+  "popayan": {
+    "title": "Popayán",
+    "src": "/city-images/popayan.jpg",
+    "page": "https://es.wikipedia.org/wiki/Popay%C3%A1n",
+    "alt": "Imagen de Popayan, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Catedralpopayan.jpg"
+  },
+  "cucuta": {
+    "title": "Cúcuta",
+    "src": "/city-images/cucuta.jpg",
+    "page": "https://es.wikipedia.org/wiki/C%C3%BAcuta",
+    "alt": "Imagen de Cucuta, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/3/30/Panor%C3%A1mica_de_San_Jos%C3%A9_de_C%C3%BAcuta%2C_Colombia.jpg"
+  },
+  "ibague": {
+    "title": "Ibagué",
+    "src": "/city-images/ibague.jpg",
+    "page": "https://es.wikipedia.org/wiki/Ibagu%C3%A9",
+    "alt": "Imagen de Ibague, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ibagu%C3%A9.jpg/1920px-Ibagu%C3%A9.jpg"
+  },
+  "soacha": {
+    "title": "Provincia de Soacha",
+    "src": "/city-images/soacha.png",
+    "page": "https://es.wikipedia.org/wiki/Provincia_de_Soacha",
+    "alt": "Imagen de Soacha, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Colombia_-_Cundinamarca_-_Soacha_%28provincia%29.svg/1920px-Colombia_-_Cundinamarca_-_Soacha_%28provincia%29.svg.png"
+  },
+  "barranquilla": {
+    "title": "Barranquilla",
+    "src": "/city-images/barranquilla.jpg",
+    "page": "https://es.wikipedia.org/wiki/Barranquilla",
+    "alt": "Imagen de Barranquilla, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Barranquilla_Catedral.jpg"
+  },
+  "soledad": {
+    "title": "Soledad (Atlántico)",
+    "src": "/city-images/soledad.jpg",
+    "page": "https://es.wikipedia.org/wiki/Soledad_(Atl%C3%A1ntico)",
+    "alt": "Imagen de Soledad, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/0/00/Soledad%2C_Atl%C3%A1ntico%2C_Colombia.jpg"
+  },
+  "manizales": {
+    "title": "Manizales",
+    "src": "/city-images/manizales.jpg",
+    "page": "https://es.wikipedia.org/wiki/Manizales",
+    "alt": "Imagen de Manizales, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Manizales_Montage_L.jpg"
+  },
+  "murillo": {
+    "title": "Tolima",
+    "src": "/city-images/murillo.jpg",
+    "page": "https://es.wikipedia.org/wiki/Tolima",
+    "alt": "Imagen de Murillo, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ibagu%C3%A9.jpg/1920px-Ibagu%C3%A9.jpg"
+  },
+  "dosquebradas": {
+    "title": "Dosquebradas",
+    "src": "/city-images/dosquebradas.jpg",
+    "page": "https://es.wikipedia.org/wiki/Dosquebradas",
+    "alt": "Imagen de Dosquebradas, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Una_Monta%C3%B1a_de_Colores-Pereira-Dosquebradas.jpg/1920px-Una_Monta%C3%B1a_de_Colores-Pereira-Dosquebradas.jpg"
+  },
+  "buenaventura": {
+    "title": "Buenaventura (Colombia)",
+    "src": "/city-images/buenaventura.jpg",
+    "page": "https://es.wikipedia.org/wiki/Buenaventura_(Colombia)",
+    "alt": "Imagen de Buenaventura, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buenaventura%2C_Colombia.jpg/1280px-Buenaventura%2C_Colombia.jpg"
+  },
+  "bello": {
+    "title": "Bello (Antioquia)",
+    "src": "/city-images/bello.jpg",
+    "page": "https://es.wikipedia.org/wiki/Bello_(Antioquia)",
+    "alt": "Imagen de Bello, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bello%2C_Antioquia%2C_Colombia.jpg/1920px-Bello%2C_Antioquia%2C_Colombia.jpg"
+  },
+  "envigado": {
+    "title": "Envigado",
+    "src": "/city-images/envigado.png",
+    "page": "https://es.wikipedia.org/wiki/Envigado",
+    "alt": "Imagen de Envigado, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/2/21/Envigad_foto_alcaldia-de-envigado.png"
+  },
+  "itagui": {
+    "title": "Itagüí",
+    "src": "/city-images/itagui.jpg",
+    "page": "https://es.wikipedia.org/wiki/Itag%C3%BC%C3%AD",
+    "alt": "Imagen de Itagui, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/8/81/CAMI-Itagui.JPG"
+  },
+  "sabaneta": {
+    "title": "Sabaneta (Colombia)",
+    "src": "/city-images/sabaneta.jpg",
+    "page": "https://es.wikipedia.org/wiki/Sabaneta_(Colombia)",
+    "alt": "Imagen de Sabaneta, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Panor%C3%A1mica_de_Sabaneta.jpg/1920px-Panor%C3%A1mica_de_Sabaneta.jpg"
+  },
+  "copacabana": {
+    "title": "Copacabana (Antioquia)",
+    "src": "/city-images/copacabana.jpg",
+    "page": "https://es.wikipedia.org/wiki/Copacabana_(Antioquia)",
+    "alt": "Imagen de Copacabana, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Copacabana-panor%C3%A1mica.jpg/1920px-Copacabana-panor%C3%A1mica.jpg"
+  },
+  "caldas": {
+    "title": "Caldas",
+    "src": "/city-images/caldas.jpg",
+    "page": "https://es.wikipedia.org/wiki/Caldas",
+    "alt": "Imagen de Caldas, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nevado_del_Ruiz_nos_saludo_4.jpg"
+  },
+  "la-estrella": {
+    "title": "La Estrella (Antioquia)",
+    "src": "/city-images/la-estrella.jpg",
+    "page": "https://es.wikipedia.org/wiki/La_Estrella_(Antioquia)",
+    "alt": "Imagen de La Estrella, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/0/00/La_Estrella-Geografia.JPG"
+  },
+  "girardota": {
+    "title": "Girardota",
+    "src": "/city-images/girardota.jpg",
+    "page": "https://es.wikipedia.org/wiki/Girardota",
+    "alt": "Imagen de Girardota, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Girardota-frontis.jpg/1920px-Girardota-frontis.jpg"
+  },
+  "barbosa": {
+    "title": "Barbosa (Antioquia)",
+    "src": "/city-images/barbosa.jpg",
+    "page": "https://es.wikipedia.org/wiki/Barbosa_(Antioquia)",
+    "alt": "Imagen de Barbosa, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Parque_Diego_Echavarr%C3%ADa_Misas-Barbosa.JPG/1920px-Parque_Diego_Echavarr%C3%ADa_Misas-Barbosa.JPG"
+  },
+  "floridablanca": {
+    "title": "Floridablanca (Colombia)",
+    "src": "/city-images/floridablanca.jpg",
+    "page": "https://es.wikipedia.org/wiki/Floridablanca_(Colombia)",
+    "alt": "Imagen de Floridablanca, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Floridablanca%2C_Sder-Colombia_enr_2022.jpg/1920px-Floridablanca%2C_Sder-Colombia_enr_2022.jpg"
+  },
+  "giron": {
+    "title": "Girón (Colombia)",
+    "src": "/city-images/giron.jpg",
+    "page": "https://es.wikipedia.org/wiki/Gir%C3%B3n_(Colombia)",
+    "alt": "Imagen de Girón, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vista_de_Gir%C3%B3n_%28Santander%29_en_dron_02.jpg/1280px-Vista_de_Gir%C3%B3n_%28Santander%29_en_dron_02.jpg"
+  },
+  "piedecuesta": {
+    "title": "Piedecuesta",
+    "src": "/city-images/piedecuesta.jpg",
+    "page": "https://es.wikipedia.org/wiki/Piedecuesta",
+    "alt": "Imagen de Piedecuesta, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/9/90/Piedecuesta_Santander_Colombia.jpg"
+  },
+  "chia": {
+    "title": "Chía (Colombia)",
+    "src": "/city-images/chia.jpg",
+    "page": "https://es.wikipedia.org/wiki/Ch%C3%ADa_(Colombia)",
+    "alt": "Imagen de Chia, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chia_-_panoramio_%281%29.jpg/1920px-Chia_-_panoramio_%281%29.jpg"
+  },
+  "neiva": {
+    "title": "Neiva",
+    "src": "/city-images/neiva.jpg",
+    "page": "https://es.wikipedia.org/wiki/Neiva",
+    "alt": "Imagen de Neiva, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Avenida_la_toma.jpg/1920px-Avenida_la_toma.jpg"
+  },
+  "ocana": {
+    "title": "Ocaña (Colombia)",
+    "src": "/city-images/ocana.jpg",
+    "page": "https://es.wikipedia.org/wiki/Oca%C3%B1a_(Colombia)",
+    "alt": "Imagen de Ocana, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Columna_de_la_Libertad_de_los_Esclavos_Plaza_29_de_mayo.JPG/1920px-Columna_de_la_Libertad_de_los_Esclavos_Plaza_29_de_mayo.JPG"
+  },
+  "valledupar": {
+    "title": "Valledupar",
+    "src": "/city-images/valledupar.jpg",
+    "page": "https://es.wikipedia.org/wiki/Valledupar",
+    "alt": "Imagen de Valledupar, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/6/67/Plaza_Valledupar.jpg"
+  },
+  "pamplona": {
+    "title": "Pamplona (Colombia)",
+    "src": "/city-images/pamplona.png",
+    "page": "https://es.wikipedia.org/wiki/Pamplona_(Colombia)",
+    "alt": "Imagen de Pamplona, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pamplona%2CNorte_de_Santander.PNG/1920px-Pamplona%2CNorte_de_Santander.PNG"
+  },
+  "cartago": {
+    "title": "Cartago (Valle del Cauca)",
+    "src": "/city-images/cartago.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cartago_(Valle_del_Cauca)",
+    "alt": "Imagen de Cartago, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cartago_Colombia_panorama.jpg"
+  },
+  "palmira": {
+    "title": "Palmira (Colombia)",
+    "src": "/city-images/palmira.jpg",
+    "page": "https://es.wikipedia.org/wiki/Palmira_(Colombia)",
+    "alt": "Imagen de Palmira, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Catedral_de_Palmira_-_panoramio.jpg"
+  },
+  "girardot": {
+    "title": "Girardot",
+    "src": "/city-images/girardot.jpg",
+    "page": "https://es.wikipedia.org/wiki/Girardot",
+    "alt": "Imagen de Girardot, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Catedral_Girardot_2021.jpg/1920px-Catedral_Girardot_2021.jpg"
+  },
+  "puerto-colombia": {
+    "title": "Muelle de Puerto Colombia",
+    "src": "/city-images/puerto-colombia.jpg",
+    "page": "https://es.wikipedia.org/wiki/Muelle_de_Puerto_Colombia",
+    "alt": "Imagen de Puerto Colombia, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Puerto-a%C3%B1os20.jpg"
+  },
+  "santa-rosa-de-cabal": {
+    "title": "Santa Rosa de Cabal",
+    "src": "/city-images/santa-rosa-de-cabal.jpg",
+    "page": "https://es.wikipedia.org/wiki/Santa_Rosa_de_Cabal",
+    "alt": "Imagen de Santa Rosa de Cabal, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Parque_las_araucarias_%28Santa_Rosa_de_Cabal%29.jpg/1280px-Parque_las_araucarias_%28Santa_Rosa_de_Cabal%29.jpg"
+  },
+  "monteria": {
+    "title": "Montería",
+    "src": "/city-images/monteria.jpg",
+    "page": "https://es.wikipedia.org/wiki/Monter%C3%ADa",
+    "alt": "Imagen de Monteria, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ronda_del_Sin%C3%BA.jpg/1920px-Ronda_del_Sin%C3%BA.jpg"
+  },
+  "tulua": {
+    "title": "Tuluá",
+    "src": "/city-images/tulua.jpg",
+    "page": "https://es.wikipedia.org/wiki/Tulu%C3%A1",
+    "alt": "Imagen de Tulua, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tulu%C3%A1%2C_Valle_del_Cauca%2C_Colombia.jpg/1920px-Tulu%C3%A1%2C_Valle_del_Cauca%2C_Colombia.jpg"
+  },
+  "barrancabermeja": {
+    "title": "Barrancabermeja",
+    "src": "/city-images/barrancabermeja.jpg",
+    "page": "https://es.wikipedia.org/wiki/Barrancabermeja",
+    "alt": "Imagen de Barrancabermeja, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Barrancabermeja%2C_Santander_Department%2C_Colombia_-_panoramio_-_yesid_ferney_pati%C3%B1o_%E2%80%A6_%283%29.jpg/1920px-Barrancabermeja%2C_Santander_Department%2C_Colombia_-_panoramio_-_yesid_ferney_pati%C3%B1o_%E2%80%A6_%283%29.jpg"
+  },
+  "buga": {
+    "title": "Buga",
+    "src": "/city-images/buga.jpg",
+    "page": "https://es.wikipedia.org/wiki/Buga",
+    "alt": "Imagen de Buga, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Buga_desde_el_faro.JPG/1920px-Buga_desde_el_faro.JPG"
+  },
+  "cundinamarca": {
+    "title": "Cundinamarca",
+    "src": "/city-images/cundinamarca.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cundinamarca",
+    "alt": "Imagen de Cundinamarca, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P%C3%A1ramo_de_Sumapaz.jpg/1920px-P%C3%A1ramo_de_Sumapaz.jpg"
+  },
+  "cota": {
+    "title": "Cota (Cundinamarca)",
+    "src": "/city-images/cota.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cota_(Cundinamarca)",
+    "alt": "Imagen de Cota, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bogot%C3%A1_River_-_Cota-Bogot%C3%A1_-_greenhouses.jpg"
+  },
+  "zipaquira": {
+    "title": "Zipaquirá",
+    "src": "/city-images/zipaquira.jpg",
+    "page": "https://es.wikipedia.org/wiki/Zipaquir%C3%A1",
+    "alt": "Imagen de Zipaquira, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Centro_Urbano_de_Zipaquir%C3%A1.jpg/1920px-Centro_Urbano_de_Zipaquir%C3%A1.jpg"
+  },
+  "yopal": {
+    "title": "Yopal",
+    "src": "/city-images/yopal.jpg",
+    "page": "https://es.wikipedia.org/wiki/Yopal",
+    "alt": "Imagen de Yopal, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Yopal-Casanare.jpg/1920px-Yopal-Casanare.jpg"
+  },
+  "malambo": {
+    "title": "Malambo (Atlántico)",
+    "src": "/city-images/malambo.jpg",
+    "page": "https://es.wikipedia.org/wiki/Malambo_(Atl%C3%A1ntico)",
+    "alt": "Imagen de Malambo, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iglesia_Santa_Mar%C3%ADa_Magdalena_-2.JPG/1920px-Iglesia_Santa_Mar%C3%ADa_Magdalena_-2.JPG"
+  },
+  "antioquia": {
+    "title": "Ciudad Bolívar (Antioquia)",
+    "src": "/city-images/antioquia.jpg",
+    "page": "https://es.wikipedia.org/wiki/Ciudad_Bol%C3%ADvar_(Antioquia)",
+    "alt": "Imagen de Antioquia, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parque_de_Ciudad_Bolivar_%28Antioquia%29.jpg/1920px-Parque_de_Ciudad_Bolivar_%28Antioquia%29.jpg"
+  },
+  "santander": {
+    "title": "Santander (Colombia)",
+    "src": "/city-images/santander.jpg",
+    "page": "https://es.wikipedia.org/wiki/Santander_(Colombia)",
+    "alt": "Imagen de Santander, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Barichara_Calle.jpg/1280px-Barichara_Calle.jpg"
+  },
+  "sincelejo": {
+    "title": "Sincelejo",
+    "src": "/city-images/sincelejo.jpg",
+    "page": "https://es.wikipedia.org/wiki/Sincelejo",
+    "alt": "Imagen de Sincelejo, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sincelejo%2C_Sucre.jpg"
+  },
+  "ipiales": {
+    "title": "Nariño (Colombia)",
+    "src": "/city-images/ipiales.jpg",
+    "page": "https://es.wikipedia.org/wiki/Nari%C3%B1o_(Colombia)",
+    "alt": "Imagen de Ipiales, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santuario_Nacional_de_Las_Lajas_04.jpg/1920px-Santuario_Nacional_de_Las_Lajas_04.jpg"
+  },
+  "riohacha": {
+    "title": "Riohacha",
+    "src": "/city-images/riohacha.jpg",
+    "page": "https://es.wikipedia.org/wiki/Riohacha",
+    "alt": "Imagen de Riohacha, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/8/80/Catedral_Nuestra_Se%C3%B1ora_de_los_Remedios_Riohacha_Colombia-20240901.jpg"
+  },
+  "valle-del-cauca": {
+    "title": "Valle del Cauca",
+    "src": "/city-images/valle-del-cauca.jpg",
+    "page": "https://es.wikipedia.org/wiki/Valle_del_Cauca",
+    "alt": "Imagen de Valle del Cauca, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Casa_del_Virrey_%286%29._Cartago%2C_Valle%2C_Colombia.JPG/1920px-Casa_del_Virrey_%286%29._Cartago%2C_Valle%2C_Colombia.JPG"
+  },
+  "melgar": {
+    "title": "Melgar (Tolima)",
+    "src": "/city-images/melgar.jpg",
+    "page": "https://es.wikipedia.org/wiki/Melgar_(Tolima)",
+    "alt": "Imagen de Melgar, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Panoramica_Centro_Melgar.jpg"
+  },
+  "covenas": {
+    "title": "Coveñas",
+    "src": "/city-images/covenas.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cove%C3%B1as",
+    "alt": "Imagen de Coveñas, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Playa_La_Coquera_en_Cove%C3%B1as_2023.jpg/1280px-Playa_La_Coquera_en_Cove%C3%B1as_2023.jpg"
+  },
+  "atlantico": {
+    "title": "Atlántico (Colombia)",
+    "src": "/city-images/atlantico.jpg",
+    "page": "https://es.wikipedia.org/wiki/Atl%C3%A1ntico_(Colombia)",
+    "alt": "Imagen de Atlantico, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panor%C3%A1mica_general_de_Barranquilla.JPG/1920px-Panor%C3%A1mica_general_de_Barranquilla.JPG"
+  },
+  "risaralda": {
+    "title": "Risaralda",
+    "src": "/city-images/risaralda.jpg",
+    "page": "https://es.wikipedia.org/wiki/Risaralda",
+    "alt": "Imagen de Risaralda, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plaza_de_Bol%C3%ADvar_-_Marsella_%28Risaralda%29_-_panoramio.jpg/1920px-Plaza_de_Bol%C3%ADvar_-_Marsella_%28Risaralda%29_-_panoramio.jpg"
+  },
+  "la-calera": {
+    "title": "Cundinamarca",
+    "src": "/city-images/la-calera.jpg",
+    "page": "https://es.wikipedia.org/wiki/Cundinamarca",
+    "alt": "Imagen de La Calera, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P%C3%A1ramo_de_Sumapaz.jpg/1920px-P%C3%A1ramo_de_Sumapaz.jpg"
+  },
+  "turbaco": {
+    "title": "Bolívar (Colombia)",
+    "src": "/city-images/turbaco.jpg",
+    "page": "https://es.wikipedia.org/wiki/Bol%C3%ADvar_(Colombia)",
+    "alt": "Imagen de Turbaco, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Santuario_Arquidioceano_Nuestra_Se%C3%B1ora_del_Carmen%2C_El_Carmen_de_Bol%C3%ADvar.jpg"
+  },
+  "tolima": {
+    "title": "Tolima",
+    "src": "/city-images/tolima.jpg",
+    "page": "https://es.wikipedia.org/wiki/Tolima",
+    "alt": "Imagen de Tolima, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ibagu%C3%A9.jpg/1280px-Ibagu%C3%A9.jpg"
+  },
+  "norte-de-santander": {
+    "title": "Norte de Santander",
+    "src": "/city-images/norte-de-santander.jpg",
+    "page": "https://es.wikipedia.org/wiki/Norte_de_Santander",
+    "alt": "Imagen de Norte de Santander, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Estoraques_%286%29.jpg/1920px-Estoraques_%286%29.jpg"
+  },
+  "fusagasuga": {
+    "title": "Fusagasugá",
+    "src": "/city-images/fusagasuga.jpg",
+    "page": "https://es.wikipedia.org/wiki/Fusagasug%C3%A1",
+    "alt": "Imagen de Fusagasuga, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CATEDRAL_NUESTRA_SE%C3%91ORA_DE_BEL%C3%89N.JPG/1920px-CATEDRAL_NUESTRA_SE%C3%91ORA_DE_BEL%C3%89N.JPG"
+  },
+  "quibdo": {
+    "title": "Quibdó",
+    "src": "/city-images/quibdo.jpg",
+    "page": "https://es.wikipedia.org/wiki/Quibd%C3%B3",
+    "alt": "Imagen de Quibdo, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ciudad_de_Quibdo.jpg/1920px-Ciudad_de_Quibdo.jpg"
+  },
+  "santa-cruz-de-lorica": {
+    "title": "Santa Cruz de Lorica",
+    "src": "/city-images/santa-cruz-de-lorica.jpg",
+    "page": "https://es.wikipedia.org/wiki/Santa_Cruz_de_Lorica",
+    "alt": "Imagen de Santa Cruz de Lorica, Colombia",
+    "remoteSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/En_el_rio.JPG/1920px-En_el_rio.JPG"
+  }
+}
